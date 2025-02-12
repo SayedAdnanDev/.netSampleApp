@@ -1,5 +1,5 @@
 services:
   web:
-    build: src/myWebApp.csproj
+    build: src
     ports:
       - 80:80
