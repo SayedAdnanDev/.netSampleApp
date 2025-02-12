@@ -1,5 +1,5 @@
 services:
   web:
-    build: app/aspnetapp
+    build: app/
     ports:
       - 80:80
